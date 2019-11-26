@@ -6,7 +6,7 @@
 
 Once the teacher has been contacted, a student account will be setup and all the details of how to login will be sent to you.
 
-### <a href="mailto:ringowathelet@gmail.com?subject=New student">Contact the teacher</a>
+### <p align="center"><a href="mailto:ringowathelet@gmail.com?subject=New student">Contact the teacher</a></p>
  
 
 
