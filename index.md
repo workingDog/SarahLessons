@@ -1,5 +1,14 @@
 ## Welcome to Sarah Class
 
+**Sarah Class** is for students wanting to learn English online with Sarah.
+
+### To use the **Sarah Class App**, students must first contact Sarah and ask about the lessons and fees.
+
+Once a Sarah has been contacted, a student account can be setup.
+
+
+
+
 You can use the [editor on GitHub](https://github.com/workingDog/SarahLessons/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
