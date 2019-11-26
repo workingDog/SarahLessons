@@ -8,9 +8,12 @@
 
 Once the teacher has been contacted, a student account will be setup and all the details of how to login will be sent to you.
 
+
+<h2 id="contact">
 <p align="center"> 
-### <a href="mailto:ringowathelet@gmail.com?subject=New student">Contact the teacher</a>
+<a href="mailto:ringowathelet@gmail.com?subject=New student">Contact the teacher</a>
 </p>
+</h2>
 
 <p align="center"> something else centered </p>
   
