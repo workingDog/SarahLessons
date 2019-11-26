@@ -9,6 +9,8 @@ Once the teacher has been contacted, a student account will be setup and all the
 ### <a href="mailto:ringowathelet@gmail.com?subject=New student">Contact the teacher</a>
 
 
+<p class="center"> something centered </p>
+
 ### Markdownx
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
