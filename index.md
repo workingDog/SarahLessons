@@ -1,6 +1,6 @@
-## Welcome to Sarah Class
+## Welcome to Sarah Class App information
 
-**Sarah Class** is for students wanting to learn English online with Sarah.
+**Sarah Class App** is for students wanting to learn English online with Sarah.
 
 ### To use the **Sarah Class App**, students must first contact Sarah and ask about the lessons and fees.
 
