@@ -19,7 +19,7 @@ Once the teacher has been contacted, a student account will be setup and all the
 </p>
 </h2>
 
-**Sarah Class App for iOS** is free and is available on the **Apple Store**.
+**Sarah Class App** for iOS is free and is available on the Apple Store.
 
 <a href="https://itunes.apple.com/us/app/pochi-presenter/id1435990047?ls=1&mt=8"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
 
