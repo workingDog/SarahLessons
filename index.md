@@ -1,4 +1,8 @@
-## Welcome to **Sarah Class App** information page
+<h2 id="welcome">
+<p align="center"> 
+Welcome to <strong>Sarah Class App</strong> information page
+</p>
+</h2>
 
 <p align="center"><img src="/SarahLessons/images/stall.png" alt="logopicture"/></p>
 
