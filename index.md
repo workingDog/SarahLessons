@@ -1,4 +1,4 @@
-## Welcome to Sarah Class App information
+## <p class="center">Welcome to Sarah Class App information page</p>
 
 **Sarah Class App** is for students wanting to learn English online with a native English teacher.
 
