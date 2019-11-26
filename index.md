@@ -6,7 +6,8 @@
 
 Once the teacher has been contacted, a student account can be setup. All the details of how to login will be sent to you.
 
-
+### <a href="mailto:ringowathelet@gmail.com?subject=New student">Contact Sarah</a></li>
+ 
 
 
 You can use the [editor on GitHub](https://github.com/workingDog/SarahLessons/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
