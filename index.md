@@ -1,8 +1,7 @@
-## Welcome to Sarah Class App information page
+## Welcome to **Sarah Class App** information page
 
 **Sarah Class App** is for students wanting to learn English online with a native English teacher.
 
-To use **Sarah Class App** 
 ### Students must first contact the teacher and ask about the lessons and fees.
 
 Once the teacher has been contacted, a student account will be setup and all the details of how to login will be sent to you.
