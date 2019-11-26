@@ -4,7 +4,7 @@
 
 ### To use the **Sarah Class App**, students must first contact Sarah and ask about the lessons and fees.
 
-Once a Sarah has been contacted, a student account can be setup.
+Once the teacher has been contacted, a student account can be setup. All the details of how to login will be sent to you.
 
 
 
