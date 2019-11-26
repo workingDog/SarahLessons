@@ -1,12 +1,12 @@
 ## Welcome to Sarah Class App information
 
-**Sarah Class App** is for students wanting to learn English online with Sarah.
+**Sarah Class App** is for students wanting to learn English online with a native English teacher.
 
-### To use the **Sarah Class App**, students must first contact Sarah and ask about the lessons and fees.
+### To use the **Sarah Class App**, students must first contact the teacher and ask about the lessons and fees.
 
 Once the teacher has been contacted, a student account can be setup. All the details of how to login will be sent to you.
 
-### <a href="mailto:ringowathelet@gmail.com?subject=New student">Contact Sarah</a></li>
+### <a href="mailto:ringowathelet@gmail.com?subject=New student">Contact the teacher</a></li>
  
 
 
