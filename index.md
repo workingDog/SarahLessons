@@ -1,6 +1,6 @@
 ## Welcome to **Sarah Class App** information page
 
-<p><img src="/SarahLessons/images/stall.png" alt="logopicture"/></p>
+<p align="center"><img src="/SarahLessons/images/stall.png" alt="logopicture"/></p>
 
 **Sarah Class App** is for students wanting to learn English online with a native English teacher.
 
@@ -15,8 +15,7 @@ Once the teacher has been contacted, a student account will be setup and all the
 </p>
 </h2>
 
-<p align="center"> something else centered </p>
-  
+
 ### Markdownx
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
