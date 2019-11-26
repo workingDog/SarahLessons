@@ -13,7 +13,9 @@ Once the teacher has been contacted, a student account will be setup and all the
 
 <p align="center"> something else centered </p>
   
-  
+  <div markdown="1" class="center">
+  centered content
+</div>
 
 ### Markdownx
 
