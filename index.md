@@ -26,15 +26,14 @@ Once the teacher has been contacted, a student account will be setup and all the
 
 <a href="https://itunes.apple.com/us/app/pochi-presenter/id1435990047?ls=1&mt=8"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
 
-### How to use Sarah Class
+### How to use Sarah Class App
 
-Lessons in **Sarah Class** are sent by the teacher and received by the student in the **Sarah Class App**. 
+Lessons in **Sarah Class** are initiated by the teacher and received by the student in the **Sarah Class App**. 
 
 A lesson consists 
 of a task for the student to undertake. Within a lesson the student sends notes to the teacher 
 and the teacher reply to the student notes until the lesson is completed. 
-A note is a text message but can include a document attachment, a picture  
-and an audio message.
+A note is a text message but can include a document attachment, a picture and an audio message.
 
 
 
