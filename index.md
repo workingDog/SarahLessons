@@ -43,16 +43,16 @@ A note is a text message but can include a document attachment, a picture and an
 
 
 <div style="width: 800px; height: 800px; overflow: visible; overflow-x: scroll; white-space: nowrap; padding: 5px; display: inline-block; float: left;" >   
-        <div style="display: inline-block;">
+        <div>
             <img src="images/web/w1x.png">
         </div>
-        <div style="display: inline-block;">
+        <div>
             <img src="images/web/w2x.png">
         </div>
-        <div style="display: inline-block;">
+        <div>
             <img src="images/web/w3x.png">
         </div>
-        <div style="display: inline-block;">
+        <div>
             <img src="images/web/w4x.png">
         </div>
 </div>
@@ -60,7 +60,7 @@ A note is a text message but can include a document attachment, a picture and an
 <br>
 
 
-# Sarah Class App assist
+# Sarah Class App assist.
 
 Please address all correspondence regarding the **Sarah Class App** to: <SarahClass.assist@gmail.com>
 
