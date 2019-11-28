@@ -57,6 +57,9 @@ A note is a text message but can include a document attachment, a picture and an
         </div>
 </div>
 
+<br>
+
+
 # Sarah Class App assist
 
 Please address all correspondence regarding the **Sarah Class App** to: <SarahClass.assist@gmail.com>
