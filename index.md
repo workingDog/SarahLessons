@@ -71,7 +71,6 @@ The following *Privacy Policy* applies to **Sarah Class** for iOS and macOS (the
  
 **Sarah Class** Apps do not:
  
- * collect, access or record any personal information,
  * collect, access or record any location information,
  * contain any In-App purchase,
  * display any advertising,
