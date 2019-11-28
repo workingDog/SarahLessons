@@ -57,9 +57,7 @@ A note is a text message but can include a document attachment, a picture and an
         </div>
 </div>
 
-<div style="width: 10px; height: 10px;"> </div>
-
-<br>
+# 
 
 
 # Sarah Class App assist.
