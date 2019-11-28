@@ -40,21 +40,19 @@ of a task for the student to undertake. Within a lesson the student sends notes 
 and the teacher reply to the student notes until the lesson is completed. 
 A note is a text message but can include a document attachment, a picture and an audio message.
 
-<div style="width: 10000px; height: 800px; overflow-x:scroll; padding: 5px; display:inline-block; float:left;" >   
-    <div id="slider1" class="text-center" style="width: 10000px;">
-        <div class="slide-img">
+<div style="width: 1000px; height: 800px; overflow-x:scroll; white-space: nowrap; padding: 5px; display:inline-block; float:left;" >   
+        <div>
             <img src="images/web/w1x.png">
         </div>
-        <div class="slide-img">
+        <div>
             <img src="images/web/w2x.png">
         </div>
-        <div class="slide-img">
+        <div>
             <img src="images/web/w3x.png">
         </div>
-        <div class="slide-img">
+        <div>
             <img src="images/web/w4.png">
         </div>
-    </div>
 </div>
 
 
