@@ -8,7 +8,9 @@ Welcome to <strong>Sarah Class App</strong> information page
 
 **Sarah Class App** is for students wanting to learn English online with a native English teacher.
 
-### Students must first contact the teacher about the lessons and fees.
+```markdown
+Syntax highlighted code block
+### Students must first contact the teacher about the lessons.
 
 Once the teacher has been contacted, a student account will be setup and all the details of how to login will be sent to you.
 
@@ -19,6 +21,7 @@ Once the teacher has been contacted, a student account will be setup and all the
 </h2>
 
  <br>
+```
 
 **Sarah Class App** for iOS is free and is available on the Apple Store.
 
