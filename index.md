@@ -40,13 +40,22 @@ of a task for the student to undertake. Within a lesson the student sends notes 
 and the teacher reply to the student notes until the lesson is completed. 
 A note is a text message but can include a document attachment, a picture and an audio message.
 
-
-![w1](images/web/w1x.png) 
-![w2](images/web/w2x.png)
-![w3](images/web/w3x.png)
-![w4](images/web/w4.png)
-
-
+<div style="width: 1000px; height: 500px; overflow-x:scroll; padding: 5px; display:inline-block; float:left;" >   
+    <div id="slider1" class="text-center" style="width: 1000px;">
+        <div class="slide-img">
+            <img src="images/web/w1x.png">
+        </div>
+        <div class="slide-img">
+            <img src="images/web/w2x.png">
+        </div>
+        <div class="slide-img">
+            <img src="images/web/w3x.png">
+        </div>
+        <div class="slide-img">
+            <img src="images/web/w4.png">
+        </div>
+    </div>
+</div>
 
 
 # Sarah Class App assist
