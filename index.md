@@ -44,7 +44,7 @@ A note is a text message but can include a document attachment, a picture and an
 ![w1](images/web/w1x.png) 
 ![w2](images/web/w2x.png)
 ![w3](images/web/w3x.png)
-
+![w4](images/web/w4x.png)
 
 
 
