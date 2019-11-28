@@ -28,12 +28,12 @@ Once the teacher has been contacted, a student account will be setup and all the
 <a href="https://itunes.apple.com/us/app/pochi-presenter/id1435990047?ls=1&mt=8"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
 
 #### For Mac
-<a href="https://itunes.apple.com/us/app/pochi-presenter/id1435990047?ls=1&mt=8"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
+<a href="https://itunes.apple.com/jp/app/pochi-presenter/id1454321927?l=en&mt=12"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
 
 
 # How to use Sarah Class App
 
-The main concepts in **Sarah Class App** are *lessons* and *notes*. 
+The main concepts are **lessons** and **notes**. 
 
 Lessons are initiated by the teacher and received by the student. A lesson consists 
 of a task for the student to undertake. Within a lesson the student sends notes to the teacher 
