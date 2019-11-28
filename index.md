@@ -15,7 +15,7 @@ Once the teacher has been contacted, a student account will be setup and all the
 
 <h2 id="contact">
 <p align="center"> 
-<a href="mailto:ringowathelet@gmail.com?subject=New student">Contact the teacher</a>
+<a href="mailto:ringowathelet@gmail.com?subject=New student"><u>Contact the teacher</u></a>
 </p>
 </h2>
 
@@ -50,7 +50,7 @@ A note is a text message but can include a document attachment, a picture and an
 
 
 
-# Sarah Class assist
+# Sarah Class App assist
 
 Please address all correspondence regarding the **Sarah Class App** to: <SarahClass.assist@gmail.com>
 
