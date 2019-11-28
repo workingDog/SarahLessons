@@ -28,10 +28,13 @@ Once the teacher has been contacted, a student account will be setup and all the
 
 ### How to use Sarah Class
 
-Lessons in **Sarah Class** are sent by the teacher and received by the student. A lesson consists 
+Lessons in **Sarah Class** are sent by the teacher and received by the student in the **Sarah Class App**. 
+
+A lesson consists 
 of a task for the student to undertake. Within a lesson the student sends notes to the teacher 
-and the teacher reply to each student note. A note can include a document attachment, a picture 
-a audio message, and of course the student writing note text.
+and the teacher reply to the student notes until the lesson is completed. 
+A note is a text message but can include a document attachment, a picture  
+and an audio message.
 
 
 
