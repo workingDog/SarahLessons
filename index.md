@@ -9,7 +9,7 @@ Welcome to <strong>Sarah Class App</strong> information page
 **Sarah Class App** is for students wanting to learn English online with a native English teacher.
 
 
-### Students must first contact the teacher about the lessons.
+## Students must first contact the teacher about the lessons.
 
 Once the teacher has been contacted, a student account will be setup and all the details of how to login will be sent to you.
 
@@ -22,11 +22,16 @@ Once the teacher has been contacted, a student account will be setup and all the
  <br>
 
 
-**Sarah Class App** for iOS is free and is available on the Apple Store.
+**Sarah Class App** for iOS and for Mac are free and is available on the Apple Store.
 
+#### For iPhone and iPad
 <a href="https://itunes.apple.com/us/app/pochi-presenter/id1435990047?ls=1&mt=8"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
 
-### How to use Sarah Class App
+#### For Mac
+<a href="https://itunes.apple.com/us/app/pochi-presenter/id1435990047?ls=1&mt=8"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
+
+
+# How to use Sarah Class App
 
 Lessons in **Sarah Class** are initiated by the teacher and received by the student in the **Sarah Class App**. 
 
@@ -45,42 +50,40 @@ A note is a text message but can include a document attachment, a picture and an
 
 
 
+# Sarah Class assist
 
+Please address all correspondence regarding the **Sarah Class App** to: <SarahClass.assist@gmail.com>
 
-
-
-
-
-
-
-### Markdownx
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/workingDog/SarahLessons/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Privacy Policy
+ 
+The following *Privacy Policy* applies to **Sarah Class** for iOS and macOS (the Apps).
+ 
+##### Information Collection, Use, and Sharing
+ 
+**Sarah Class** Apps do not:
+ 
+ * collect, access or record any personal information,
+ * collect, access or record any location information,
+ * contain any In-App purchase,
+ * display any advertising,
+ * ask for credit card number or any payment, it is free, 
+ * ask for any personal information,
+ * lock you into subscription.
+   
+ We only have access to information that you voluntarily give us via email 
+ or other direct contact from you. We will not sell or rent this information to anyone.
+ 
+ We will use your information to respond to you, regarding the reason you contacted us. 
+ We will not share your information with any third party outside of our organization, 
+ other than as necessary to fulfill your request.
+ 
+ Unless you ask us not to, we may contact you via email in the future to answer your 
+ questions regarding the **Apps** or changes to this privacy policy.
+ 
+#### Your Access to and Control Over Information 
+ 
+You may opt out of any future contacts from us at any time. 
+ 
+If you feel that we are not abiding by this privacy policy, you should contact us 
+immediately via email <SarahClass.assist@gmail.com>.
+ 
