@@ -8,8 +8,7 @@ Welcome to <strong>Sarah Class App</strong> information page
 
 **Sarah Class App** is for students wanting to learn English online with a native English teacher.
 
-```markdown
-Syntax highlighted code block
+
 ### Students must first contact the teacher about the lessons.
 
 Once the teacher has been contacted, a student account will be setup and all the details of how to login will be sent to you.
@@ -21,13 +20,21 @@ Once the teacher has been contacted, a student account will be setup and all the
 </h2>
 
  <br>
-```
+
 
 **Sarah Class App** for iOS is free and is available on the Apple Store.
 
 <a href="https://itunes.apple.com/us/app/pochi-presenter/id1435990047?ls=1&mt=8"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
 
 ### How to use Sarah Class
+
+Lessons in **Sarah Class** are sent by the teacher and received by the student. A lesson consists 
+of a task for the student to undertake. Within a lesson the student sends notes to the teacher 
+and the teacher reply to each student note. A note can include a document attachment, a picture 
+a audio message, and of course the student writing note text.
+
+
+
 
 
 
