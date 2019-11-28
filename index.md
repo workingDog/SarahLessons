@@ -41,7 +41,7 @@ and the teacher reply to the student notes until the lesson is completed.
 A note is a text message but can include a document attachment, a picture and an audio message.
 
 
-
+![login](images/web/w1x.png) ![main](images/web/w2x.png)
 
 
 
