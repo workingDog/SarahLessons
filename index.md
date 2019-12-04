@@ -35,7 +35,7 @@ The main concepts are **lessons** and **notes**.
 Lessons are initiated by the teacher and received by the student. A lesson consists 
 of a task for the student to undertake. Within a lesson the student sends notes to the teacher 
 and the teacher reply to the student notes until the lesson is completed. 
-A note is a text message but can include a document attachment, a picture and an audio message.
+A note is a text message but can include a document attachment, pictures and an audio message.
 
 
 
@@ -58,7 +58,7 @@ A note is a text message but can include a document attachment, a picture and an
 
 # Sarah Class App assist
 
-Please address all correspondence regarding the **Sarah Class App** to: <SarahClass.assist@gmail.com>
+Please address all correspondence regarding the **Sarah Class App** itself to: <SarahClass.assist@gmail.com>
 
 # Privacy Policy
  
