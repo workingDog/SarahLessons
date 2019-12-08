@@ -35,7 +35,11 @@ The main concepts are **lessons** and **notes**.
 Lessons are initiated by the teacher and received by the student. A lesson consists 
 of a task for the student to undertake. Within a lesson the student sends notes to the teacher 
 and the teacher reply to the student notes until the lesson is completed. 
-A note is a text message but can include a document attachment, pictures and an audio message.
+A note is a text message but can include a document attachment, an audio message and pictures.
+
+A demo student account is first presented to show the main features of the app. 
+After contacting the teacher a specific account for you will be created. 
+To sign in enter your email and the password sent to you.
 
 
 
