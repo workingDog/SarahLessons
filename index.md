@@ -69,7 +69,6 @@ To sign in enter your email and the password sent to you.
 </div>
 
 
-
 # Sarah Class App assist
 
 Please address all correspondence regarding the **Sarah Class App** itself to: <SarahClass.assist@gmail.com>
