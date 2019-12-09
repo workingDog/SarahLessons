@@ -63,6 +63,9 @@ To sign in enter your email and the password sent to you.
                         <div style="display: inline-block; box-shadow: 1px 1px 10px; cursor: pointer;">
                             <img src="images/web/z6.png">
                         </div>
+         <div style="display: inline-block; box-shadow: 1px 1px 10px; cursor: pointer;">
+         <img src="images/web/z7.png">
+         </div>
 </div>
 
 
