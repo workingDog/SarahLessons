@@ -37,7 +37,9 @@ of a task for the student to undertake. Within a lesson the student sends notes 
 and the teacher reply to the student notes until the lesson is completed. 
 A note is a text message but can include a document attachment, an audio message and pictures.
 
-A demo student account is first presented to show the main features of the app. 
+When **Sarah Class App** is first launched, a demo student account is first presented to highlight the main features of the app. 
+The email is **demostudent@email.com** and password **demostudent**.
+
 After contacting the teacher a specific account for you will be created. 
 To sign in enter your email and the password sent to you.
 
