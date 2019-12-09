@@ -45,7 +45,6 @@ After contacting the teacher a specific account for you will be created.
 To sign in enter your email and the password sent to you.
 
 
-
 <div style="width: 900px; height: 900px; overflow: visible; overflow-x: scroll; white-space: nowrap; padding: 5px; display: inline-block; float: left;" >   
         <div style="display: inline-block; box-shadow: 1px 1px 10px; cursor: pointer;">
             <img src="images/web/z1.png">
