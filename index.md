@@ -48,17 +48,23 @@ To sign in enter your email and the password sent to you.
 
 <div style="width: 900px; height: 900px; overflow: visible; overflow-x: scroll; white-space: nowrap; padding: 5px; display: inline-block; float: left;" >   
         <div style="display: inline-block; box-shadow: 1px 1px 10px; cursor: pointer;">
-            <img src="images/web/w1x.png">
+            <img src="images/web/z1.png">
         </div>
         <div style="display: inline-block; box-shadow: 1px 1px 10px; cursor: pointer;">
-            <img src="images/web/w2x.png">
+            <img src="images/web/z2.png">
         </div>
         <div style="display: inline-block; box-shadow: 1px 1px 10px; cursor: pointer;">
-            <img src="images/web/w3x.png">
+            <img src="images/web/z3.png">
         </div>
         <div style="display: inline-block; box-shadow: 1px 1px 10px; cursor: pointer;">
-            <img src="images/web/w4x.png">
+            <img src="images/web/z4.png">
         </div>
+                <div style="display: inline-block; box-shadow: 1px 1px 10px; cursor: pointer;">
+                    <img src="images/web/z5.png">
+                </div>
+                        <div style="display: inline-block; box-shadow: 1px 1px 10px; cursor: pointer;">
+                            <img src="images/web/z6.png">
+                        </div>
 </div>
 
 
