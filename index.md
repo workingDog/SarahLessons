@@ -39,7 +39,7 @@ A note is a text message but can include a document attachment, an audio message
 
 When **Sarah Class App** is first launched, a demo student account is presented. 
 This account is used only to highlight the main features of the app. 
-The email is **demostudent@email.com** and password **demostudent**.
+The email is **demostudent@example.com** and password **demostudent**.
 
 After contacting the teacher a specific account for you will be created. 
 To sign in enter your email and the password sent to you.
