@@ -22,7 +22,7 @@ Once the teacher has been contacted, a student account will be setup and all the
  <br>
 
 
-**Sarah Class App** for iOS and for Mac are free and are available on the Apple Store.
+**Sarah Class App** for iOS and for Mac are free and are available on the Apple Stores.
 
 #### &emsp;&emsp;&emsp; iPhone and iPad &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mac
 <a href="https://itunes.apple.com/us/app/"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://itunes.apple.com/jp/app/"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
@@ -34,12 +34,12 @@ The main concepts are **lessons** and **notes**.
 
 Lessons are initiated by the teacher and received by the student. A lesson consists 
 of a task for the student to undertake. Within a lesson the student sends notes to the teacher 
-and the teacher reply to the student notes until the lesson is completed. 
+and the teacher reply to the student notes until the lesson is deemed completed. 
 A note is a text message but can include a document attachment, an audio message and pictures.
 
 When **Sarah Class App** is first launched, a demo student account is presented. 
 This account is used only to highlight the main features of the app. 
-The email is **demostudent@example.com** and password **demostudent**.
+The demo student email is **demostudent@example.com** and password is **demostudent**.
 
 After contacting the teacher a specific account for you will be created. 
 To sign in enter your email and the password sent to you.
