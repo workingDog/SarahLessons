@@ -25,7 +25,10 @@ Once the teacher has been contacted, a student account will be setup and all the
 **Sarah Class App** for iOS and for Mac are free and are available on the Apple Stores.
 
 #### &emsp;&emsp;&emsp; iPhone and iPad &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mac
-<a href="https://itunes.apple.com/us/app/"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://itunes.apple.com/jp/app/"><img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
+<a href="https://workingdog.github.io/SarahLessons/">
+<img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" />
+</a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://workingdog.github.io/SarahLessons/">
+<img src="/SarahLessons/images/app-store.jpg" title="Apple Store SarahClass" width="250" height="83" /></a>
  
 
 # How to use Sarah Class App
