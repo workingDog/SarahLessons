@@ -15,7 +15,7 @@ Once the teacher has been contacted, a student account will be setup and all the
 
 <h2 id="contact">
 <p align="center"> 
-<a href="mailto:noone@gmail.com?subject=New student"><u>Contact the teacher</u></a>
+<a href="mailto:sumidacolor@gmail.com?subject=New student"><u>Contact the teacher</u></a>
 </p>
 </h2>
 
