@@ -21,8 +21,12 @@ Once the teacher has been contacted, a student account will be setup and all the
 
  <br>
 
+**Sarah Class App** for iOS and for Mac are free and are available for testing at: 
+ <a href="https://testflight.apple.com/join/lafHAC4c"><u>Sarah Class TestFlight</u></a>
 
-**Sarah Class App** for iOS and for Mac are free and are available on the Apple Stores.
+ <br>
+
+**Sarah Class App** for iOS and for Mac are free and will soon be available on the Apple Stores.
 
 #### &emsp;&emsp;&emsp; iPhone and iPad &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Mac
 <a href="https://workingdog.github.io/SarahLessons/">
